@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.43e99471.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.4b9f645d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.4b9f645d.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e22994fd.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e22994fd.js.map",
+    "static/css/2.818011ed.chunk.css": "/React-Portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.fd0d4e28.chunk.js": "/React-Portfolio/static/js/2.fd0d4e28.chunk.js",
+    "static/js/2.fd0d4e28.chunk.js.map": "/React-Portfolio/static/js/2.fd0d4e28.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/React-Portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.43e99471.chunk.css.map": "/React-Portfolio/static/css/main.43e99471.chunk.css.map",
+    "static/js/2.fd0d4e28.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.fd0d4e28.chunk.js.LICENSE.txt",
+    "static/media/Day Planner.png": "/React-Portfolio/static/media/Day Planner.355f4dd0.png",
+    "static/media/Demofitness.png": "/React-Portfolio/static/media/Demofitness.e91e108f.png",
+    "static/media/IMG_2315.JPG": "/React-Portfolio/static/media/IMG_2315.4b3fd6d0.JPG",
+    "static/media/Readmegen.png": "/React-Portfolio/static/media/Readmegen.031c5074.png",
+    "static/media/Resume2.jpeg": "/React-Portfolio/static/media/Resume2.f9b4f3f3.jpeg",
+    "static/media/Ryders.png": "/React-Portfolio/static/media/Ryders.9647b879.png",
+    "static/media/Safe Travels Image.png": "/React-Portfolio/static/media/Safe Travels Image.0f73024e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e22994fd.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.fd0d4e28.chunk.js",
+    "static/css/main.43e99471.chunk.css",
+    "static/js/main.4b9f645d.chunk.js"
+  ]
+}
